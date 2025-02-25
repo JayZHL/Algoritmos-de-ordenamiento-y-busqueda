@@ -1,5 +1,5 @@
 <h1>Descripción</h1>
-Elabore una aplicación para llevar el registro de países del mundo donde todas tieneninformación.
+Elabore una aplicación para llevar el registro de países del mundo donde todas tienen información.
 <br></br>
 
 <ul>
